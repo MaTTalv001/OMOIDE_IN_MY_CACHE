@@ -19,7 +19,7 @@ const Post = ({ correctAnswers, mode }) => {
 
     const tweetText = `流行語新旧当てクイズ（${modeName}モード）で${correctAnswers}問正解しました！${resultMessage} #RUNTEQ #ミニアプリWeek`;
     const twitterUrl = `https://twitter.com/intent/tweet?url=${encodeURIComponent(
-      'https://omoide-in-my-brain.vercel.app/'
+      'https://omoide-in-my-cache.vercel.app/'
     )}&text=${encodeURIComponent(tweetText)}`;
     window.open(twitterUrl, '_blank');
   };
