@@ -1,8 +1,8 @@
-# OMOIDE IN MY BRAIN - 流行語を思い出すクイズアプリ
+# OMOIDE IN MY CACHE - 流行語を思い出すクイズアプリ
 
 ## 概要
 
-OMOIDE IN MY BRAINは、過去の流行語を比較して、どちらがより新しいかを当てるクイズアプリです。日本の流行語の歴史を楽しみながら学べる、エンターテイメント性の高い教育アプリです。
+OMOIDE IN MY CACHEは、過去の流行語を比較して、どちらがより新しいかを当てるクイズアプリです。日本の流行語の歴史を楽しみながら学べる、エンターテイメント性の高い教育アプリです。
 
 ## 特徴
 
@@ -48,8 +48,8 @@ OMOIDE IN MY BRAINは、過去の流行語を比較して、どちらがより�
 
 1. リポジトリをクローン
    ```
-   git clone https://github.com/MaTTalv001/OMOIDE_IN_MY_BRAIN.git
-   cd OMOIDE_IN_MY_BRAIN
+   git clone https://github.com/MaTTalv001/OMOIDE_IN_MY_CACHE.git
+   cd OMOIDE_IN_MY_CACHE
    ```
 
 2. Docker環境を立ち上げる
